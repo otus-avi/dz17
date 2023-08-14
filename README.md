@@ -2,7 +2,8 @@
 
 Тренируем умение работать с SELinux: диагностировать проблемы и модифицировать политики SELinux для корректной работы приложений, если это требуется.
 1) Запуск nginx на нестандартном порту 3-мя разными способами 
-Дописал в Vagrantfile:  yum install policycoreutils-python (так как по умолчанию нет инструмента audit2why) 
+Дописал в Vagrantfile:  yum install policycoreutils-python (так как по умолчанию нет инструмента audit2why)
+
 Способ 1
 ![Снимок экрана от 2023-08-14 15-23-14](https://github.com/otus-avi/dz17/assets/123792073/4ecacb1d-c5f4-43b2-9e02-7100df1daba1)
 
